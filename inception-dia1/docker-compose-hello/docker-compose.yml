@@ -1,0 +1,7 @@
+version: "3.9"
+
+services:
+  hello:
+    image: alpine:latest
+    container_name: hello-world
+    command: ["echo", "Hello World do Docker Compose!"]

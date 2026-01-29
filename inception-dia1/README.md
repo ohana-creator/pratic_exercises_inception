@@ -3,7 +3,7 @@ Este repositório contém a prática para o **Inception** da 42, com exercícios
 
 ---
 ## Estrutura do repositório
-
+```bash
 inception-dia1/
 ├─ alpine-container/
 │ ├─ Dockerfile
@@ -12,7 +12,7 @@ inception-dia1/
 │ └─ docker-compose.yml
 ├─ Makefile
 └─ README.md
-
+```
 
 ### Exercício 1: Container Alpine Simples
 
